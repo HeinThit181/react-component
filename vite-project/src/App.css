@@ -1,0 +1,14 @@
+.card { 
+  margin-top: 10px; 
+  background-color: white; 
+  width: 200px; 
+  min-height: 200px; 
+  border-radius: 8px; 
+  display: flex; 
+  justify-content: center; 
+  flex-direction: column;
+  padding-left: 1rem;
+} 
+.card h1{
+  align-items: center; 
+}
